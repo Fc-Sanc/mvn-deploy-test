@@ -1,0 +1,5 @@
+# place ignore files or folders here.
+
+/.idea
+/.workspace
+target
