@@ -2,4 +2,4 @@
 
 ---
 
-A demo that try to export a maven package by GitHub.
+A demo for test to export a maven package by GitHub.
